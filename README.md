@@ -26,8 +26,6 @@ The Tanzaia Ministry of Water needs to combat the possibility of it's citizens d
 
 The Tanzania Ministry of Water has tasked our team with identifing which wells have been identified as being functional. while also identifying which wells are in need of repair. All of this will be acheived through predictive modeling from basic information we aquired from the dataset about each well.
 
-This is of critical importance due to the potential for an
-
 
 ## Data Understanding
 
@@ -59,5 +57,5 @@ From this figure it can be seen that inland, on the southern Tanzanian boarder, 
 ├──[Final Notebook - Jupyter Notebook.pdf](https://bit.ly/3CF0ovO)     <--- PDF of Final Notebook <br> 
 ├──[Final Notebook.ipynb](https://bit.ly/3q1c5rD)     <--- Final Project Jupyter Notebook <br>
 ├──[Presentation.pdf](https://bit.ly/3i2zO6v)     <--- PDF of Project Presentation to the Tanzania Ministy of Water <br>
-├──[README.md](https://bit.ly/3w1luDp)     <--- README.md <br>
+├──[README.md](https://bit.ly/3w1luDp)     <--- README.md that you are currently reading <br>
 
