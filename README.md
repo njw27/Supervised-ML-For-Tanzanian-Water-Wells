@@ -48,7 +48,7 @@ Our final model with an Ensemble Model resulted in 81% accuracy score and 82% pr
 
 From this figure it can be seen that inland, on the southern Tanzanian boarder, there are many wells in need of repair. You can also see few functioning wells in this same area meaning these communities will have to travel farther to get access to drinking water. Regions like these need to be clearly identified in order to be focused on when considering where to begin aid.
 
-[Combined Map](images/combo.png)
+![Combined Map](images/combo.png)
 
 
 
