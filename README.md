@@ -52,10 +52,10 @@ From this figure it can be seen that inland, on the southern Tanzanian boarder, 
 
 
 
-### Repo Navigation
-├──data
-├──Images
-├──.gitignore
-├──Project_3_Presentation.pdf
-├──Group_Notebook.ipynb
-├──README.md
+### Repo Navigation. 
+├──data. 
+├──Images  
+├──.gitignore. 
+├──Project_3_Presentation.pdf. 
+├──Group_Notebook.ipynb. 
+├──README.md. 
