@@ -4,14 +4,13 @@
 ----
 
 # Table of Contents
-
-## Overview
-## Business Understanding
-## Data Understanding
-## Modeling
-## Evaluation
-## Conclusion
-## Repository Navigation
+#### Overview
+#### Business Understanding
+#### Data Understanding
+#### Modeling
+#### Evaluation
+#### Conclusion
+#### Repository Navigation
 
 ---
 
