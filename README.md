@@ -52,10 +52,11 @@ From this figure it can be seen that inland, on the southern Tanzanian boarder, 
 
 
 
-### Repo Navigation. 
-├──data. 
-├──Images  
-├──.gitignore. 
-├──Project_3_Presentation.pdf. 
-├──Group_Notebook.ipynb. 
-├──README.md. 
+### Repo Navigation 
+├──[data/](https://bit.ly/3CGlbiD)     <--- Well Data Provided by DrivenData 
+├──[images/](https://bit.ly/3JdpAfw)     <--- Images Used For Project
+├──[.gitignore](https://bit.ly/3Jf9D8r)     <--- Git Ignore for Project Repo
+├──[Final Notebook - Jupyter Notebook.pdf](https://bit.ly/3CF0ovO)     <--- PDF of Final Notebook
+├──[Final Notebook.ipynb](https://bit.ly/3q1c5rD)     <--- Final Project Jupyter Notebook
+├──[Presentation.pdf](https://bit.ly/3i2zO6v)     <--- PDF of Project Presentation to the Tanzania Ministy of Water
+├──[README.md](https://bit.ly/3w1luDp)     <--- README.md
